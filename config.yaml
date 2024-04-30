@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    tushar:
+      email: tusharmehta3200@gmail.com
+      name: Tushar Mehta
+      password : mehta123
+    tanishq:
+      email: tanishqbajaj123@gmail.com
+      name : Tanishq Bajaj
+      password : bajaj@123
+    rajdeep:
+      email: rajdeepdas12@gmail.com
+      name : Rajdeep Das
+      password : boka123
+cookie:
+  expiry_days : 0
+  key : mehta123
+  name : vitals
+preauthorized:
+  emails:
+  - tushki@gmail.com
